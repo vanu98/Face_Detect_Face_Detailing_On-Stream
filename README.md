@@ -1,7 +1,7 @@
 # Face_Detect_Face_Detailing_On-Stream
 Thw project detects faces using haar casscade and applies image processing operations to particular face frame, increasinfg the details within the image and easy for further processing.
 
-#Installation:
+# Installation:
 ```sh
 $ python blur.py
 or
@@ -19,6 +19,6 @@ $ python sample.py
 or
 $ python3 sample.py
 ```
-#Screenshots:
+# Screenshots:
 ![](https://github.com/vanu98/Face_Detect_Face_Detailing_On-Stream/blob/master/Face_detect_face_detail_processing/Output/screenshot.jpg)
->sample screenshot
+> sample screenshot
